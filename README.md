@@ -31,5 +31,5 @@
 
 
 
-![](https://raw.githubusercontent.com/gradyalexis/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gradyalexis&show_icons=true&locale=en&theme=tokyonight" alt="gradyalexis" /></p>
 
