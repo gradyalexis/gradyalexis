@@ -1,11 +1,9 @@
 <h1>Hi 👋, I'm Grady Alexis</h1>
 <h3>A passionate Frontend Engineer from Bandung, Indonesia</h3>
 
-- 🔭 I’m currently working on **Nuxt**
+- 🔭 I’m currently working on **Next**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Nuxt, Vue, Tailwind CSS**
+- 💬 Ask me about **React, Next, Nuxt, Vue, Tailwind CSS**
 
 
 📬 Get in Touch
