@@ -54,9 +54,9 @@ Hey there! I'm **Grady Alexis** — a passionate frontend developer from 🇮�
 
 <div align="center">
 
-![Grady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gradyalexis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00DC82&icon_color=00DC82&text_color=c9d1d9)
+![Grady's GitHub Stats](https://github-readme-stats-rose-iota-95.vercel.app/api?username=gradyalexis&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00DC82&icon_color=00DC82&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gradyalexis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00DC82&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-rose-iota-95.vercel.app/api/top-langs/?username=gradyalexis&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00DC82&text_color=c9d1d9)
 
 </div>
 
